@@ -1,0 +1,49 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "titulo": "Definir escopo do projeto",
+      "descricao": "Organizar os requisitos e as entregas da equipe.",
+      "responsavel": "Lucas",
+      "prioridade": "Alta",
+      "status": "Concluída",
+      "prazo": "2026-11-06"
+    },
+    {
+      "id": "2",
+      "titulo": "Criar identidade visual",
+      "descricao": "Definir cores, tipografia e componentes da interface.",
+      "responsavel": "Giovana",
+      "prioridade": "Média",
+      "status": "Concluída",
+      "prazo": "2026-11-08"
+    },
+    {
+      "id": "3",
+      "titulo": "Implementar quadro Kanban",
+      "descricao": "Exibir tarefas agrupadas por situação.",
+      "responsavel": "Lucas",
+      "prioridade": "Alta",
+      "status": "Concluída",
+      "prazo": "2026-11-10"
+    },
+    {
+      "id": "4",
+      "titulo": "Integrar Web API",
+      "descricao": "Persistir tarefas via HttpClient e JSON-Server.",
+      "responsavel": "Lucas",
+      "prioridade": "Alta",
+      "status": "Em andamento",
+      "prazo": "2026-11-23"
+    },
+    {
+      "id": "5",
+      "titulo": "Revisar relatório final",
+      "descricao": "Atualizar imagens e funcionalidades implementadas.",
+      "responsavel": "Giovana",
+      "prioridade": "Média",
+      "status": "A fazer",
+      "prazo": "2026-11-23"
+    }
+  ]
+}
